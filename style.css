@@ -1,11 +1,15 @@
+*{
+    margin: 0; padding: 0;
+}
+
+
 #visual{
-    width: 600px;
-    height: 300px;
-    background: aqua;
+    width: 100%;
+    height: 100vh;
+    background: hotpink;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 3vW;
     color: #fff;
-    margin: 100px auto;
 }
